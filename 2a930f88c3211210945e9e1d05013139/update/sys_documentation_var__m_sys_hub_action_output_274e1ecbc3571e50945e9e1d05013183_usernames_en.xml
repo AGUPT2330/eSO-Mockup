@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="usernames" label="userNames" language="en" table="var__m_sys_hub_action_output_274e1ecbc3571e50945e9e1d05013183">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>usernames</element>
+            <help/>
+            <hint/>
+            <label>userNames</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_274e1ecbc3571e50945e9e1d05013183</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-29 09:37:57</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>userNames</sys_name>
+            <sys_package display_value="eSO Mockup" source="x_1040502_eso_mo_0">2a930f88c3211210945e9e1d05013139</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="eSO Mockup">2a930f88c3211210945e9e1d05013139</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_274e1ecbc3571e50945e9e1d05013183_usernames_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-29 09:37:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
